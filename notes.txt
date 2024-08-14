@@ -1,0 +1,2 @@
+Things this site needs to function 
+A way to find a flight given the starting location and the ending location
